@@ -11,3 +11,7 @@ Aplicación de consola que consume la api exchangerate https://www.exchangerate-
 ### Tecnologías usadas
 - Java 17
 - Gson 2.10.1
+
+### Ejemlo de la aplicación
+
+![Logo del Proyecto](https://github.com/gitbrave99/conversor-monedas-java/blob/master/img/cmd.png)
