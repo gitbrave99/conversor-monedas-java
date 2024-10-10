@@ -10,3 +10,4 @@ Aplicación de consola que consume la api exchangerate https://www.exchangerate-
 
 ### Tecnologías usadas
 - Java 17
+- Gson 2.10.1
